@@ -1,4 +1,4 @@
-# Discord-js-bot
+# Cloudlino
 <img src="https://cdn.discordapp.com/attachments/861659038805393408/962346970897334353/Design_ohne_Titel22.png" width="250" />
 
 # How to setup the bot
