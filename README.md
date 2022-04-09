@@ -2,8 +2,9 @@
 <img src="https://cdn.discordapp.com/attachments/861659038805393408/962346970897334353/Design_ohne_Titel22.png" width="250" />
 
 # How to setup the bot
-1. Go to Cnfig.js and config all your things like prefix and enable functions for your bot
-2. Then copy your bot token and go to the .env file and setup it all there like client id's for spotify and so on...
+1. Type in your cmd or terminal: npm i < this will install dependencies for this bot.
+2. Go to Cnfig.js and config all your things like prefix and enable functions for your bot
+3. Then copy your bot token and go to the .env file and setup it all there like client id's for spotify and so on...
 
 # Where do i find my Spotify client id?
 
